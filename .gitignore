@@ -1,0 +1,4 @@
+node_modules
+.env
+certificate.pem
+key.pem
